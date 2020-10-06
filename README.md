@@ -14,6 +14,7 @@ For Configurations
 
 #### Step3- Click on edit go to preferences 
 
+#### Step4- Save the file 
 
 
 <img src="https://github.com/ShushantRaghuvanshi/Hyper-Terminal-Configurations/blob/master/hypergif.gif" />
