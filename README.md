@@ -14,12 +14,3 @@ For Configurations
 
 #### Step3- Click on edit go to preferences 
 
-#### Step4- Paste the Given Code - https://github.com/ShushantRaghuvanshi/Hyper-Terminal-Configurations/blob/master/Hyper-Configurations.js
-
-#### Step4- Save the file 
-
-
-<img src="https://github.com/ShushantRaghuvanshi/Hyper-Terminal-Configurations/blob/master/hypergif.gif" />
-
-
-## Finally enjoy with your new configuratins ,Keep Coding,Keep Going.....
