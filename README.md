@@ -19,7 +19,7 @@ For Configurations
 #### Step4- Save the file 
 
 
-<img src="https://github.com/mohitjaisal/Hyper-Terminal-Configurations/blob/master/hypergif.gif" />
+<img src="https://github.com/ShushantRaghuvanshi/Hyper-Terminal-Configurations/blob/master/hypergif.gif" />
 
 
 ## Finally enjoy with your new configuratins ,Keep Coding,Keep Going.....
