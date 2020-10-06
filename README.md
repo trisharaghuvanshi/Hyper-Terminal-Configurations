@@ -14,3 +14,7 @@ For Configurations
 
 #### Step3- Click on edit go to preferences 
 
+<img src="https://github.com/ShushantRaghuvanshi/Hyper-Terminal-Configurations/blob/master/hypergif.gif" />
+
+
+###Finally enjoy with your new configuratins ,Keep Coding,Keep Going.....
